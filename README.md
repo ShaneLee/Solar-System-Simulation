@@ -3,9 +3,9 @@ A Solar System simulation with P5.JS
 
 <img src="/Thumbnail_solarsystem.jpg"
      alt="Click to go to the video"
-     href="https://youtu.be/meJf53tvsWw" />
+     href="https://www.youtube.com/watch?v=HZoCplPBYjk" />
 
-[Youtube video associated with this repository](https://youtu.be/meJf53tvsWw)
+[Youtube video associated with this repository](https://www.youtube.com/watch?v=HZoCplPBYjk)
 
 ## Example GIF of this project
 
